@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../QQ文档/20201206_28关键字驱动加数据驱动作业/AutoTestFramework/.idea/AutoTestFramework.iml" filepath="$PROJECT_DIR$/../QQ文档/20201206_28关键字驱动加数据驱动作业/AutoTestFramework/.idea/AutoTestFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Interface_framework/.idea/Interface_framework.iml" filepath="$PROJECT_DIR$/../Interface_framework/.idea/Interface_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My_script/.idea/My_script.iml" filepath="$PROJECT_DIR$/../My_script/.idea/My_script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/autotestFramework.iml" filepath="$PROJECT_DIR$/.idea/autotestFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webui_framework/.idea/webui_framework.iml" filepath="$PROJECT_DIR$/../webui_framework/.idea/webui_framework.iml" />
+    </modules>
+  </component>
+</project>
